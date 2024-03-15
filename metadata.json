@@ -1,0 +1,39 @@
+{
+    "id": "lands",
+    "name": "LandsMC",
+    "description": "O melhor servidor de minecraft!",
+    "addresses": [
+        "stydismc.com",
+        "landsmc.com"
+    
+    ],
+    "primaryAddress": "landsmc.com",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#a854de",
+    "primaryLanguage": "pt-br",
+    "languages": [
+        "pt-br"
+    ],
+    "primaryRegion": "SA",
+    "regions": [
+    
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://landsmc.com",
+    "store": "https://landsmc.com",
+
+    "presentationVideo": "7EV4cPuJvXE",
+    "socials": {
+        "youtube": "https://www.youtube.com/@LandsMCOFICIAL",
+        "discord": "https://discord.gg/sWCB7T6gbQ",
+    },
+    "crossplay": false
+}
